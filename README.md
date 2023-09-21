@@ -17,8 +17,8 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td style="width:250px;">
-      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/fifa23-ultimate-team.jpg" width="250">
+    <td style="width:450px;">
+      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/fifa23-ultimate-team.jpg" width="450">
     </td>
     <td>
       <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players">Fifa 23 Players Analysis</a></strong> <br> 
@@ -34,8 +34,8 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td style="width:250px;">
-      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg" width="250">
+    <td style="width:450px;">
+      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg" width="450">
     </td>
     <td>
       <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players">New York City AirBnB Analysis</a></strong> <br> 
@@ -51,8 +51,8 @@ Here are available the notebooks of the projects made by me in the area of Data 
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td style="width:250px;">
-      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Google-Play-Store.webp" width="250">
+    <td style="width:450px;">
+      <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Google-Play-Store.webp" width="450">
     </td>
     <td>
       <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/nyc_airbnb-open-data">Google Play Store Analysis</a></strong> <br> 
