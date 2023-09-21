@@ -16,40 +16,40 @@ Here are available the notebooks of the projects made by me in the area of Data 
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/fifa23-ultimate-team.jpg" width="250" height="150" style="margin-right: 20px;">
-  <div>
+  <div style="flex: 1;">
     <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players">Fifa 23 Players Analysis</a></strong>
     <p>In this project, I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.</p>
     <a href="https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
     </a>
   </div>
+  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/fifa23-ultimate-team.jpg" width="250" height="150" style="margin-left: 20px;">
 </div>
 
 #
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg" width="250" height="150" style="margin-right: 20px;">
-  <div>
+  <div style="flex: 1;">
     <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/fifa-23-ultimate-team-players">New York City AirBnB Analysis</a></strong>
     <p>In this project, I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.</p>
     <a href="https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
     </a>
   </div>
+  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Manhattan-skyline.jpg" width="250" height="150" style="margin-left: 20px;">
 </div>
 
 #
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Google-Play-Store.webp" width="250" height="150" style="margin-right: 20px;">
-  <div>
+  <div style="flex: 1;">
     <strong><a href="https://github.com/diogo-costa-silva/data-science-notebooks/tree/main/nyc_airbnb-open-data">Google Play Store Analysis</a></strong>
     <p>In this project, I have used exploratory analysis to study the relationships between various variables regarding FIFA 23 players. The goal is to understand the data, clean it up a little and do data exploration to find interesting insights.</p>
     <a href="https://colab.research.google.com/github/diogo-costa-silva/Data-Science/blob/main/notebooks/titanic_analysis.ipynb">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
     </a>
   </div>
+  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/Google-Play-Store.webp" width="250" height="150" style="margin-left: 20px;">
 </div>
 
 ---
