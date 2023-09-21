@@ -6,7 +6,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/diogo-costa-silva/Data-Science)
 
 <p align="center">
-  <img src="https://github.com/diogo-costa-silva/data-science-notebooks/blob/main/images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width=100%>
+  <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width=100%>
 </p>
 
 ## My projects:
